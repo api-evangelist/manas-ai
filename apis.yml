@@ -1,7 +1,28 @@
 aid: manas-ai
-name: Manas Ai
-description: Manas Ai is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/manas-ai.png
+name: Manas AI
+description: >-
+  Manas AI is an artificial-intelligence drug-discovery company co-founded by
+  Reid Hoffman and physician-scientist Siddhartha Mukherjee, launched in late
+  2024 and backed by General Catalyst and Greylock. The company applies machine
+  learning and computational biology to accelerate the discovery and design of
+  new medicines, with an initial focus on hard-to-treat cancers such as breast
+  and prostate cancer and lymphoma. Manas AI operates as a private biotech /
+  therapeutics research organization rather than a developer-facing platform:
+  as of this profile it publishes no public API, developer portal, SDKs, or
+  technical documentation. This entry is maintained in the API Evangelist
+  network as a company profile surfaced from the General Catalyst portfolio.
 url: https://raw.githubusercontent.com/api-evangelist/manas-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,24 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- Drug Discovery
+- Biotechnology
+- Healthcare
+- Machine Learning
+- Oncology
+- Life Sciences
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
