@@ -50,7 +50,7 @@ tags:
 - Drug Discovery
 - Biotechnology
 - Healthcare
-- Machine-Learning
+- Machine Learning
 - Oncology
 - Life Sciences
 tags_raw:
@@ -62,6 +62,7 @@ tags_raw:
 - Machine Learning
 - Oncology
 - Life Sciences
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
